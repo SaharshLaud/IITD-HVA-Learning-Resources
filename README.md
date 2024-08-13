@@ -11,6 +11,8 @@ Linux resources:
 - Extensive Free certification course on Linux: [Link](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - How to setup WSL(Windows Subsystem for Linux): [Link](https://www.youtube.com/watch?v=eId6K8d0v6o)
 - How to install Git and Github CLI: [Link](https://www.youtube.com/watch?v=RvXr0zp3Z4k)
+- Setting Up SSH keys to connect Github account to local system: [Link](https://kbroman.org/github_tutorial/pages/first_time.html)
+- Add locally hosted code to Github repo: [Link](https://docs.github.com/en/migrations/importing-source-code/using-the-command-line-to-import-source-code/adding-locally-hosted-code-to-github)
 
 Virtual Machine resources: 
 - Online hand-on Lab to understand VM working: [Link](https://www.cloudskillsboost.google/focuses/3563?parent=catalog)
