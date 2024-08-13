@@ -10,7 +10,7 @@ Linux resources:
 - Detailed entry level tutorial: [Link](https://ryanstutorials.net/linuxtutorial/)
 - Extensive Free certification course on Linux: [Link](https://training.linuxfoundation.org/training/introduction-to-linux/)
 - How to setup WSL(Windows Subsystem for Linux): [Link](https://www.youtube.com/watch?v=eId6K8d0v6o)
-- How to install Git and Github CLI: https:[Link](//www.youtube.com/watch?v=RvXr0zp3Z4k)
+- How to install Git and Github CLI: [Link](https://www.youtube.com/watch?v=RvXr0zp3Z4k)
 
 Virtual Machine resources: 
 - Online hand-on Lab to understand VM working: [Link](https://www.cloudskillsboost.google/focuses/3563?parent=catalog)
