@@ -20,3 +20,4 @@ Virtual Machine resources:
 - Kernel Virtual Machine blog Ubuntu: [Link](https://ubuntu.com/blog/kvm-hyphervisor)
 - Vmware download alternate website: [Link](https://archive.org/details/vmware-player-full-17.5.0-22583795_202402)
 - Ubuntu iso file download: [Link](https://ubuntu.com/download/desktop)
+- Connecting to a remote server using SSH: [Link](https://phoenixnap.com/kb/ssh-to-connect-to-remote-server-linux-or-windows)
